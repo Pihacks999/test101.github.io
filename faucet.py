@@ -35,9 +35,9 @@ limiter = Limiter(
 # Start Global variables
 
 faucetVersion = "Phantom Faucet beta 0.3"
-faucetUsername = "phantom_faucet"
-faucetMessage = "phantom32.tk wooohooooooooooooo epic faucet"
-faucetPassword = os.getenv("FAUCET_PASSWORD")
+faucetUsername = "gamecat999"
+faucetMessage = "yay wooohooooooooooooo epic faucet"
+faucetPassword = os.getenv("Jbllc100")
 ducoserverAddress = "server.duinocoin.com"
 ducosererPorts = [2811,2812,2813]
 minimumFaucetBalance = 10
